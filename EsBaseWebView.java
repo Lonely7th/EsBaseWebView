@@ -1,4 +1,4 @@
-package com.eastmoney.loan.views;
+
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -15,10 +15,6 @@ import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.LinearLayout;
-
-import com.eastmoney.loan.Log;
-import com.eastmoney.loan.NetworkUtils;
-import com.eastmoney.loan.R;
 
 /**
  * Time ： 2018/4/24 .
